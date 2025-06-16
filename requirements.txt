@@ -2,6 +2,7 @@ streamlit
 pandas
 scikit-learn
 joblib
+tldextract
 requests
 beautifulsoup4
 numpy
